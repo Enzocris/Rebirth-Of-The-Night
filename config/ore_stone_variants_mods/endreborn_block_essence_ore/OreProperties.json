@@ -1,0 +1,15 @@
+{
+  "originalTexture": "assets/endreborn/textures/blocks/block_essence_ore.png",
+  "languageKey": "tile.block_essence_ore.name",
+  "hardness": 50.0,
+  "harvestLevel": 3,
+  "drop": "endreborn:item_end_essence:0",
+  "dropSilkTouch": "endreborn:block_essence_ore:0",
+  "dropRange": [
+    1
+  ],
+  "xpRange": [
+    0
+  ],
+  "additionalDropKeys": []
+}

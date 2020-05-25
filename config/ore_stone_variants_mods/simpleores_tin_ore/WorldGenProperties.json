@@ -1,0 +1,38 @@
+{
+    "blockCount" : 5,
+    "chance" : 11,
+    "minHeight" : 1,
+    "maxHeight" : 80,
+    "biomeNameList" : ["biomesoplenty:tropical_island","biomesoplenty:flower_island","minecraft:mushroom_island","biomesoplenty:crag","biomesoplenty:land_of_lakes"],
+    "biomeTypeList" : ["SWAMP"],
+    "biomesAreBlacklist" : true,
+    "dimensionsAreBlacklist" : true,
+    "additionalPropertyKeys" : ["IslandProperties", "cragProperties", "swampProperties"],
+   
+    "IslandProperties" :
+    {
+        "blockCount" : 13,
+        "chance" : 42,
+        "minHeight" : 20,
+        "maxHeight" : 150,
+        "biomeNameList" : ["biomesoplenty:tropical_island","biomesoplenty:flower_island","minecraft:mushroom_island","biomesoplenty:land_of_lakes"]
+    },
+	
+	"cragProperties" :
+    {
+        "blockCount" : 22,
+        "chance" : 80,
+        "minHeight" : 1,
+        "maxHeight" : 230,
+        "biomeNameList" : ["biomesoplenty:crag","biomesoplenty:overgrown_cliffs"]
+    },
+   
+    "swampProperties" :
+    {
+        "blockCount" : 10,
+        "chance" : 24,
+        "minHeight" : 1,
+        "maxHeight" : 80,
+        "biomeTypeList" : ["SWAMP"]
+    }
+}

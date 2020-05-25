@@ -1,0 +1,11 @@
+//This file is not necessary. No field is necessary.
+//The biome matcher arrays can be empty. Ores will just spawn everywhere, instead.
+//If this file is not created, the ore will spawn under the same conditions as those of gold ore.
+
+//These values are the same as those of emerald ore. Yes, 3 only spawns 1 block, but rarely 2.
+//For a more advanced template, see this version: https://pastebin.com/jf9zTuiN
+{
+	"blockCount" : 3,
+	"chance" : 3,
+	"heightRange" : [0, 32]
+}

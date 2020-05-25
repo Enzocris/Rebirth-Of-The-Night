@@ -1,0 +1,15 @@
+{
+  "originalTexture": "assets/simpleores/textures/blocks/tin_ore.png",
+  "languageKey": "tile.tin_ore.name",
+  "hardness": 3.0,
+  "harvestLevel": 1,
+  "drop": "simpleores:tin_ore:0",
+  "dropSilkTouch": "simpleores:tin_ore:0",
+  "dropRange": [
+    1
+  ],
+  "xpRange": [
+    0
+  ],
+  "additionalDropKeys": []
+}

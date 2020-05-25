@@ -1,0 +1,16 @@
+{
+  "originalTexture": "assets/biomesoplenty/textures/blocks/amethyst_ore.png",
+  "languageKey": "tile.gem_ore.amethyst_ore.name",
+  "hardness": 3.0,
+  "harvestLevel": 3,
+  "drop": "biomesoplenty:gem:0",
+  "dropSilkTouch": "biomesoplenty:gem_ore:0",
+  "dropRange": [
+    1
+  ],
+  "xpRange": [
+    3,
+    7
+  ],
+  "additionalDropKeys": []
+}

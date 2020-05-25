@@ -1,0 +1,15 @@
+{
+  "originalTexture": "assets/minecraft/textures/blocks/iron_ore.png",
+  "languageKey": "tile.oreIron.name",
+  "hardness": 3.0,
+  "harvestLevel": 1,
+  "drop": "minecraft:iron_ore:0",
+  "dropSilkTouch": "minecraft:iron_ore:0",
+  "dropRange": [
+    1
+  ],
+  "xpRange": [
+    0
+  ],
+  "additionalDropKeys": []
+}

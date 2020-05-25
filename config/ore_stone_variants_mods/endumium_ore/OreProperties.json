@@ -1,0 +1,16 @@
+{
+  "originalTexture": "assets/farlanders/textures/blocks/endumium_ore.png",
+  "languageKey": "tile.oreEndumium.name",
+  "hardness": "3.0",
+  "harvestLevel": 0,
+  "drop": "farlanders:endumium_crystal",
+  "dropSilkTouch": "farlanders:endumium_crystal",
+  "dropRange": [
+    1,
+    1
+  ],
+  "xpRange": [
+    0,
+    80
+  ]
+}

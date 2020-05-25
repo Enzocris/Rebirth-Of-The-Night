@@ -1,0 +1,39 @@
+{
+    "blockCount" : 9,
+    "chance" : 17,
+    "minHeight" : 1,
+    "maxHeight" : 42,
+    "biomeNameList" : ["biomesoplenty:volcanic_island"],
+    "biomeTypeList" : ["COLD"],
+    "biomesAreBlacklist" : true,
+    "dimensionList" : [10],
+    "dimensionsAreBlacklist" : true,
+    "additionalPropertyKeys" : ["volcanicProperties", "beneathProperties", "coldProperties"],
+   
+    "volcanicProperties" :
+    {
+        "blockCount" : 16,
+        "chance" : 35,
+        "minHeight" : 20,
+        "maxHeight" : 150,
+        "biomeNameList" : ["biomesoplenty:volcanic_island"]
+    },
+
+	"beneathProperties" :
+    {
+        "blockCount" : 20,
+        "chance" : 102,
+        "minHeight" : 1,
+        "maxHeight" : 254,
+        "dimensionList" : [10]
+    },
+
+    "coldProperties" :
+    {
+        "blockCount" : 3,
+        "chance" : 8,
+        "minHeight" : 20,
+        "maxHeight" : 64,
+        "biomeTypeList" : ["COLD"]
+    }	
+}

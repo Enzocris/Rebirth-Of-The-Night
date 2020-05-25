@@ -1,0 +1,16 @@
+{
+  "originalTexture": "assets/minecraft/textures/blocks/coal_ore.png",
+  "languageKey": "tile.oreCoal.name",
+  "hardness": 3.0,
+  "harvestLevel": 0,
+  "drop": "minecraft:coal:0",
+  "dropSilkTouch": "minecraft:coal_ore:0",
+  "dropRange": [
+    1
+  ],
+  "xpRange": [
+    0,
+    2
+  ],
+  "additionalDropKeys": []
+}

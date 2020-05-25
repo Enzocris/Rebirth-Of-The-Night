@@ -1,0 +1,11 @@
+{
+    "blockCount" : 20,
+    "chance" : 25,
+    "minHeight" : 120,
+    "maxHeight" : 240,
+	"biomeNameList" : ["beneath:the_beneath"],
+    "biomeTypeList" : [],
+    "biomesAreBlacklist" : false,
+    "dimensionList" : [10],
+    "dimensionsAreBlacklist" : false
+}

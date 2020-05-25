@@ -1,0 +1,16 @@
+{
+  "originalTexture": "assets/scalinghealth/textures/blocks/crystalore.png",
+  "languageKey": "tile.scalinghealth.crystalore.name",
+  "hardness": 3.0,
+  "harvestLevel": 2,
+  "drop": "scalinghealth:crystalshard:0",
+  "dropSilkTouch": "scalinghealth:crystalore:0",
+  "dropRange": [
+    1
+  ],
+  "xpRange": [
+    1,
+    5
+  ],
+  "additionalDropKeys": []
+}

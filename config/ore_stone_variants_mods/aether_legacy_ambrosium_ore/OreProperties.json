@@ -1,0 +1,16 @@
+{
+  "originalTexture": "assets/aether_legacy/textures/blocks/ambrosium_ore.png",
+  "languageKey": "tile.ambrosium_ore.name",
+  "hardness": 3.0,
+  "harvestLevel": 0,
+  "drop": "aether_legacy:ambrosium_shard:0",
+  "dropSilkTouch": "aether_legacy:ambrosium_ore:0",
+  "dropRange": [
+    1
+  ],
+  "xpRange": [
+    0,
+    2
+  ],
+  "additionalDropKeys": []
+}

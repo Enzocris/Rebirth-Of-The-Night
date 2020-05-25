@@ -1,0 +1,10 @@
+//This file is not necessary and no field is necessary IF the ore already exists by default in the mod.
+//These values will not default to something else, if the file isn't created.
+//However, the ore dictionary value will automatically be assigned to "ore" + whatever comes before it, capitalized.
+//These values are the same as those of gold ore. 
+{
+    "result" : "gold_ingot",
+    "resultMeta" : 0,
+    "quantity": 1,
+    "xp" : 1.0F
+}
